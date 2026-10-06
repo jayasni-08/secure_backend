@@ -1,0 +1,12 @@
+```text
+__pycache__
+*.pyc
+.pytest_cache
+.git
+.gitignore
+.env
+.venv
+venv
+uploads/*
+tests/__pycache__
+```
